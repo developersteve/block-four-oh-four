@@ -1,0 +1,27 @@
+{
+  "name": "block-four-oh-four",
+  "description": "One error block to rule them all.",
+  "keywords": [
+    "error block"
+  ],
+  "authors": [
+    "Developersteve <steven@developersteve.com> (http://developer.paypal.com/)"
+  ],
+  "template": {
+    "@type": "404",
+    "head": "This is not the 404",
+    "subhead": "You are looking for",
+    "image": "image.png"
+  },
+  "homepage": "https://github.com/developersteve/blockify-404",
+  "_release": "07501c943c",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "07501c943cb0e19a547eacd1541f82122927c060"
+  },
+  "_source": "git://github.com/developersteve/blockify-404.git",
+  "_target": "*",
+  "_originalSource": "block-404",
+  "_direct": true
+}

@@ -1,0 +1,12 @@
+{
+  "name": "block-four-oh-four",
+  "description": "One error block to rule them all.",
+  "keywords": ["error block"],
+  "authors": ["Developersteve <steven@developersteve.com> (http://developer.paypal.com/)"],
+  "template": {
+    "@type": "404",
+    "head": "This is not the 404",
+    "subhead": "You are looking for",
+    "image": "image.png"
+   }
+}

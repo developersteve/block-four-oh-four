@@ -1,0 +1,18 @@
+.block-four-oh-four{
+	padding: 64px 0;
+	background: #e5e5e5;
+	text-align: center;
+}
+
+.block-four-oh-four > div > h1,
+.block-four-oh-four > div > h2 {
+	margin: 0 0 16px;
+}
+
+.block-four-oh-four > div > h4 {
+	opacity: 0.8;
+}
+
+.block-four-oh-four .row {
+	text-align: left;
+}
