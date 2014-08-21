@@ -5,8 +5,8 @@
   "authors": ["Developersteve <steven@developersteve.com> (http://developer.paypal.com/)"],
   "template": {
     "@type": "thing",
-    "head": "This is not the 404",
-    "subhead": "You are looking for",
+    "name": "This is not the 404",
+    "description": "You are looking for",
     "image": "image.png"
    }
 }
